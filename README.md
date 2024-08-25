@@ -21,7 +21,7 @@ This can be done by using data. After analyzing the  in EDA process, data scient
 * Scikit-Learn
 * Phi-K
 * Streamlit
-* Hugging Face.
+* Hugging Face
 
 ## Featured Links 🔗
 Original Dataset: [Kaggle](https://www.kaggle.com/datasets/stealthtechnologies/regression-dataset-for-household-income-analysis/data)
